@@ -2,7 +2,7 @@
 """
 Editor de Spyder
 
-By Cesar.
+By Cepetro.
 """
 import math 
 import pandas as pd
